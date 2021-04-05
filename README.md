@@ -1,4 +1,3 @@
-# Not callback.
 
 Promise-style interfaces for callback-based asynchronous libraries.
 
