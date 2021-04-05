@@ -20,12 +20,6 @@ yield from (
 
 ## Contents
 
-- [Examples](#examples)
-- [`async/await` and asyncio](#async)
-- [API Reference](#api-reference)
-- [See also](#see-also)
-
-----
 
 This library imitates the logic of the `Promise` API found in ECMAScript.
 It lets you restructure existing callback-style code into Promise workflows that are more readable.
